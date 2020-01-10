@@ -4,8 +4,13 @@
 <div class="container-sm">
     <div class="row">  
         <div class="col-sm-8">
-          <a href="{{route('principal')}}"><img class="noticia-principal" src="https://static.portaldacidade.com/unsafe/560x374/https://s3.amazonaws.com/umuarama.portaldacidade.com/img/news/2020-01/expo-umuarama-tera-seis-dias-de-rodeio-dois-deles-com-entrada-gratuita-5e188eea6a698.jpg" alt="Card image cap"></a>
-          <a href="{{route('principal')}}"><h1 class="texto-noticia"><span>Texto aqui!</span></h1></a>
+
+          <a href="{{route('principal')}}"><div class="card bg-dark text-white">
+            <img class="card-img" src="https://static.portaldacidade.com/unsafe/560x374/https://s3.amazonaws.com/umuarama.portaldacidade.com/img/news/2020-01/expo-umuarama-tera-seis-dias-de-rodeio-dois-deles-com-entrada-gratuita-5e188eea6a698.jpg" alt="Expo Umuarama terá seis dias de rodeio, dois deles com entrada gratuita">
+            <div class="card-img-overlay">
+              <h5 class="card-title texto-noticia">Expo Umuarama terá seis dias de rodeio, dois deles com entrada gratuita</h5>
+            </div>
+          </div></a>
         </div>
         <div class="col-sm-4">
         <div class="card margin" style="width: 16rem;">
@@ -13,7 +18,7 @@
             <div class="card-body">
               <h5 class="card-title">Python foi criado no final dos anos oitenta(1989) por Guido van Rossum no Centro de Matemática e Tecnológia da Informação (CWI...</h5>
               <p class="card-text"></p>
-              <a href="#" class="btn btn-primary">Leia mais</a>
+              <a href="{{route('principal')}}" class="btn btn-primary">Leia mais</a>
             </div>
         </div> 
         </div>

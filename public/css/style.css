@@ -34,20 +34,19 @@
 }
 
 .texto-noticia{
-    position: absolute; 
-    top: 350px; 
-    left: 0; 
-    width: 100%;
-}
-
-h1 span { 
+    position: absolute;
+    margin-top: 45% !important;
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+    text-align: center;
     color: white; 
     font: bold ;
     font-size: 18pt !important; 
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
     padding: 1%; 
- }
+}
+
 
 .image-publicidade {
     width: 70%;
