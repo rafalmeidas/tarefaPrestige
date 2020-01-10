@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'SiteController@index')->name('home');
+Route::get('/principal', 'SiteController@noticiaPrincipal')->name('principal');
+Route::get('/contato', 'SiteController@contato')->name('contato');
