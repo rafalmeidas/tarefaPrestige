@@ -1,0 +1,18 @@
+.margin{
+    margin-top: 30px;
+}
+.teste{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20pt;
+}
+
+.noticia-principal{
+    display: block;
+    margin-top: 40px;
+    width: 40rem;
+    border-radius: 2%;
+}
+
+/*.noticia-principal:hover{
+
+}*/
