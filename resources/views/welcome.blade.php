@@ -41,12 +41,14 @@
         </nav>
 
         <div class="container-sm">
-
-          <p class="teste"> Testando </p>
-          <img class="noticia-principal" src="https://www.pipelinelab.com.br/wp-content/uploads/2019/03/Curso-Desenvolvimento-Web-Agil-com-o-Framework-PHP-Laravel.jpg" alt="Card image cap">
+          <div class="row">  
+            <div class="col-sm-12">
+              <img class="noticia-principal" src="https://www.pipelinelab.com.br/wp-content/uploads/2019/03/Curso-Desenvolvimento-Web-Agil-com-o-Framework-PHP-Laravel.jpg" alt="Card image cap">    
+            </div>
+          </div>
           <div class="row">
-            <div class="col-3">
-                <div class="card margin" style="width: 15rem;">
+            <div class="col-sm-3">
+                <div class="card margin" style="width: 16rem;">
                     <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
                     <div class="card-body">
                       <h5 class="card-title">Card title</h5>
@@ -55,8 +57,8 @@
                     </div>
                   </div> 
             </div>
-            <div class="col-3">
-                <div class="card margin" style="width: 15rem;">
+            <div class="col-sm-3">
+                <div class="card margin" style="width: 16rem;">
                     <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
                     <div class="card-body">
                       <h5 class="card-title">Card title</h5>
@@ -65,8 +67,8 @@
                     </div>
                   </div>
             </div>
-            <div class="col-3">
-                <div class="card margin" style="width: 15rem;">
+            <div class="col-sm-3">
+                <div class="card margin" style="width: 16rem;">
                     <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
                     <div class="card-body">
                       <h5 class="card-title">Card title</h5>
@@ -75,8 +77,8 @@
                     </div>
                   </div>
             </div>
-            <div class="col-3">
-                <div class="card margin" style="width: 15rem;">
+            <div class="col-sm-3">
+                <div class="card margin" style="width: 16rem;">
                     <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
                     <div class="card-body">
                       <h5 class="card-title">Card title</h5>
@@ -87,9 +89,110 @@
             </div>
 
           </div>
-          
+          <div class="row">
+              <div class="col-sm-3">
+                  <div class="card margin" style="width: 16rem;">
+                      <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                      </div>
+                    </div> 
+              </div>
+              <div class="col-sm-3">
+                  <div class="card margin" style="width: 16rem;">
+                      <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                      </div>
+                    </div>
+              </div>
+              <div class="col-sm-3">
+                  <div class="card margin" style="width: 16rem;">
+                      <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                      </div>
+                    </div>
+              </div>
+              <div class="col-sm-3">
+                  <div class="card margin" style="width: 16rem;">
+                      <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                      </div>
+                    </div>
+              </div>
+              
+            </div>
           
         </div>
+        <footer class="page-footer font-small bg-light pt-4 ">
+
+            <!-- Footer Links -->
+            <div class="container-fluid text-center text-md-left bg-light">
+          
+              <!-- Grid row -->
+              <div class="row">
+          
+                <!-- Grid column -->
+                <div class="col-md-6 mt-md-0 mt-3">
+          
+                  <!-- Content -->
+                  <h5 class="text-uppercase">Footer Content</h5>
+                  <p>Here you can use rows and columns to organize your footer content.</p>
+          
+                </div>
+                <!-- Grid column -->
+          
+                <hr class="clearfix w-100 d-md-none pb-3">
+
+          
+                <!-- Grid column -->
+                <div class="col-md-3 mb-md-0 mb-3">
+          
+                  <!-- Links -->
+                  <h5 class="text-uppercase">Links</h5>
+          
+                  <ul class="list-unstyled">
+                    <li>
+                      <a href="#!">Link 1</a>
+                    </li>
+                    <li>
+                      <a href="#!">Link 2</a>
+                    </li>
+                    <li>
+                      <a href="#!">Link 3</a>
+                    </li>
+                    <li>
+                      <a href="#!">Link 4</a>
+                    </li>
+                  </ul>
+          
+                </div>
+                <!-- Grid column -->
+          
+              </div>
+              <!-- Grid row -->
+          
+            </div>
+            <!-- Footer Links -->
+          
+            <!-- Copyright -->
+            <div class="footer-copyright text-center py-3">© 2020 Copyright:
+              <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
+            </div>
+            <!-- Copyright -->
+          
+          </footer>
+          <!-- Footer -->
 
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
