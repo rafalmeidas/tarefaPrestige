@@ -32,9 +32,6 @@
                 <a class="nav-link" href="{{route('home')}}">HOME <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="{{route('principal')}}">NOTÍCIA PRINCIPAL <span class="sr-only">(current)</span></a>
-              </li>
-              <li class="nav-item active">
                 <a class="nav-link" href="{{route('contato')}}">CONTATO <span class="sr-only">(current)</span></a>
               </li>
             </ul>

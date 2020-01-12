@@ -11,8 +11,14 @@ class SiteController extends Controller
         return view('pages.home');
     }
 
-    public function noticiaPrincipal(){
-        return view ('pages.principal');
+
+
+    public function noticia1(){
+        return view ('pages.noticia1');
+    }
+
+    public function noticia2(){
+        return view ('pages.noticia2');
     }
 
     public function contato(){

@@ -12,5 +12,6 @@
 */
 
 Route::get('/', 'SiteController@index')->name('home');
-Route::get('/principal', 'SiteController@noticiaPrincipal')->name('principal');
+Route::get('/noticia-1', 'SiteController@noticia1')->name('noticia1');
+Route::get('/noticia-2', 'SiteController@noticia2')->name('noticia2');
 Route::get('/contato', 'SiteController@contato')->name('contato');
