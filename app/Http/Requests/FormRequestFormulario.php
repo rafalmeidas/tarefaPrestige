@@ -18,7 +18,7 @@ class FormRequestFormulario extends FormRequest
         return [
             'nome' => 'required',
             'email' => 'required|email',
-            'mensagem' => 'required|min:3|max:255'
+            'mensagem' => 'min:3|max:255'
         ];
     }
 
@@ -27,7 +27,6 @@ class FormRequestFormulario extends FormRequest
             'nome.required' => 'O campo nome é obrigatório.',
             'email.required' => 'O campo email é obrigatório.',
             'email.email' => 'O campo email deve ser do tipo email.',
-            'mensagem.required' => 'O campo mensagem é obrigatório.',
             'mensagem.min' => 'O campo mensagem deve ter no mínimo 3 letras',
             'mensagem.max' => 'O campo mensagem deve ter no máximo 255 letras'
         ];
