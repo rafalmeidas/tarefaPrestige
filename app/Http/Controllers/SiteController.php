@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Http\Requests\FormRequestFormulario;
 
 class SiteController extends Controller
 {
@@ -42,13 +43,14 @@ class SiteController extends Controller
     public function noticia8(){
         return view ('pages.noticia8');
     }
-
+    
+    //Enviar formulário por email
     public function contato(){
         return view ('pages.contato');
     }
 
-    public function enviarDados(){
-
+    public function enviarDados(FormRequestFormulario $request){
+        $dataForm = $request->all();
     }
 
 }

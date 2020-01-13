@@ -15,11 +15,11 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   </head>
-    <body>
+    <body style="padding-bottom: 100px;">
 
-        <nav class="navbar sticky-top navbar-expand-lg navbar-light  navbar-color">
+        <nav class="navbar sticky-top navbar-expand-lg navbar-light  navbar-color" style="margin-bottom: 40px">
           <a class="navbar-brand" href="#">
-            <img src="https://www.grantuk.com/media/1875/g1-2018-logo-rgb.jpg" width="30" height="30" alt="">
+
           </a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -56,29 +56,17 @@
           @yield('content')
 
       </section>
-
-            <!-- Footer -->
-      <footer class="footer">
-        <div class="footer-interno">
-          Linkedin
-          Github
+      <footer style="position: fixed; width: 100%; background-color: #FF3B38; bottom:0;">
+        <div class="footer-copyright text-center py-3">
+          © 2020 Copyright
         </div>
-
-        <!-- Copyright -->
-        <div class="footer-copyright text-center py-3">© 2020 Copyright
-          
-        </div>
-        <!-- Copyright -->
-
       </footer>
-
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        
-
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
         <script src="{{url('js/script.js')}}"></script>
 
       </body>
+      
 </html>

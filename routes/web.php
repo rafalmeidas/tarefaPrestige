@@ -21,3 +21,4 @@ Route::get('/noticia-6', 'SiteController@noticia6')->name('noticia6');
 Route::get('/noticia-7', 'SiteController@noticia7')->name('noticia7');
 Route::get('/noticia-8', 'SiteController@noticia8')->name('noticia8');
 Route::get('/contato', 'SiteController@contato')->name('contato');
+Route::get('/enviar', 'SiteController@enviarDados')->name('enviar');

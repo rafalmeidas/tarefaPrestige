@@ -30,10 +30,7 @@
                 <p>O presidente Rodrigo Gonzalez Tapia, o Digão, não esconde a empolgação com o carnavalesco e a preparação para o desfile.</p>
                 <p style="margin-left: 120px; font-size: 20pt;">"Paulo Barros trouxe suas ideias inovadoras para o desfile e temos certeza que será um marco para o carnaval paulista. A única coisa que podemos revelar é que, pela primeira vez, todos os carros serão coreografados. Serão mais de 400 componentes distribuídos nas alegorias. Os Gaviões virão muito diferente dos últimos carnavais e isso será perceptível já na entrada da escola na avenida", afirma.</p>
                 <p>O time de musas também está reforçado. Além da rainha Sabrina Sato, já foram confirmadas Fernanda Lacerda, a Mendigata, e Gil Jung.</p>
-                <figure>
-                    <img class="image-topo" src="https://s2.glbimg.com/F8zLE8B5n7OChMu_Txy_Xc_FQkM=/0x0:1060x600/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/q/z/lg6jsiS3y8yJ29lJCy9A/gavioes.jpg">
-                    <figcaption style="text-align: center; font-size: 10pt">Sabrina Sato desfila como rainha da Gaviôes da Fiel pelo segundo ano consecutivo; escola ainda tem Fernanda Lacerda, conhecida pela personagem Mendigata, e Gil Jung como destaques de chão — Foto: Celso Tavares/G1/Divulgação</figcaption>
-                </figure>
+                <br>
                 <h3>Veja a letra do samba:</h3>
                 <h2>“Um não sei que, que nasce não sei onde, vem não sei como e explode não sei porquê”</h2>
                 <p><b>Autores do samba:</b> Rafael Falanga, Luciano Rosa, Biro-Biro, Portugal e William Tadeu</p>

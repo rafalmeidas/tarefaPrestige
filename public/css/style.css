@@ -1,9 +1,14 @@
-*{
+* {
     font-family: 'Roboto', sans-serif !important;
 }
 
 .margin {
     margin-top: 30px;
+}
+
+.formulario {
+    border: 2px black;
+    border-radius: 1px 1px black;
 }
 
 .noticia-principal {
@@ -95,12 +100,6 @@ a {
     background-color: #FF3B38 !important;
 }
 
-.footer {
-    background-color: #FF3B38;
-}
 
-.footer-interno {
-    background-color: #FF5452;
-}
 
 
