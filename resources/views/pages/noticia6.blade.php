@@ -4,6 +4,7 @@
     <div class="container-sm">
         <div class="row">
             <div class="col-sm-12">
+                <p class="data" style="font-size: 10pt !important; margin-top: 30px !important; text-align: right !important;"><b>Atualizado</b><br>12/01/2020 07h00</p>
                 <h1>Com 4 títulos no carnaval carioca, Paulo Barros estreia no carnaval de SP na Gaviões da Fiel: 'Aprendendo muito'</h1>
                 <p>Com Sabrina Sato à frente da bateria e samba sobre casos de amor, a escola do time Corinthians vai comemorar 50 anos.</p>
                 <figure>

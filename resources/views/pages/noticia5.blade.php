@@ -4,6 +4,7 @@
     <div class="container-sm">
         <div class="row">
             <div class="col-sm-12">
+                <p class="data" style="font-size: 10pt !important; margin-top: 30px !important; text-align: right !important;"><b>Atualizado</b><br>12/01/2020 09h26</p>
                 <h1>Vulcão entra em atividade nas Filipinas e 2 mil pessoas são retiradas</h1>
                 <figure>
                     <img class="image-topo" src="https://s2.glbimg.com/YHbjbkiC4EblDTfdHYZQ5b6PD_s=/0x0:1024x767/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/n/G/ujs85LSsSV1Fv5J2AUWw/manila.jpg">

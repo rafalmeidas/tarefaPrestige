@@ -4,8 +4,12 @@
     <div class="container-sm">
         <div class="row">
             <div class="col-sm-12">
+                <p class="data" style="font-size: 10pt !important; margin-top: 30px !important; text-align: right !important;"><b>Atualizado</b><br>11/01/2020 20h02</p>
                 <h1>Mega-Sena, concurso 2.223: ninguém acerta as seis dezenas e prêmio vai a R$ 14 milhões</h1>
-                <img class="image" src="https://s2.glbimg.com/g2DopRAOcWhmyjsU-40Rlezs5sg=/0x0:1600x1067/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/H/i/BjMFSLTd68zGX2TBtUag/volantes-loterias-q98a7776-credito-marcelo-brandt-g1.jpg" style="width: 600px";>
+                <figure>
+                    <img class="image-topo" src="https://s2.glbimg.com/g2DopRAOcWhmyjsU-40Rlezs5sg=/0x0:1600x1067/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/H/i/BjMFSLTd68zGX2TBtUag/volantes-loterias-q98a7776-credito-marcelo-brandt-g1.jpg">
+                    <figcaption style="text-align: center; font-size: 10pt">Aposta única da Mega-Sena custa R$ 4,50 — Foto: Marcelo Brandt/G1</figcaption>
+                </figure>
                 <p>Ninguém acertou as seis dezenas do concurso 2.223 da Mega-Sena, realizado na noite deste sábado (11) em São Paulo (SP). O prêmio acumulou.</p>
                 <p>Veja as dezenas sorteadas: 02 - 26 - 40 - 42 - 49 - 56.</p>
                 <p>A quina teve 45 apostas ganhadoras; cada uma receberá R$ 47.600,35. A quadra teve 2.702 apostas vencedoras; cada uma levará R$ 1.132,50.</p>

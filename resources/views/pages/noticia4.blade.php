@@ -4,6 +4,7 @@
     <div class="container-sm">
         <div class="row">
             <div class="col-sm-12">
+                <p class="data" style="font-size: 10pt !important; margin-top: 30px !important; text-align: right !important;"><b>Atualizado</b><br>12/01/2020 07h48</p>
                 <h1>Elizabeth II convoca Harry para reunião com Charles e William</h1>
                 <figure>
                     <img class="image-topo" src="https://s2.glbimg.com/q2F3fqouIQ08xV1L8suEOT2IN5k=/0x0:1024x675/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/m/q/AHA73YQeKuq9S6x85Xjw/rainha-elizaeth-ii.jpg">

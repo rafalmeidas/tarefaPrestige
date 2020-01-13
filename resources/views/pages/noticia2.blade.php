@@ -4,6 +4,7 @@
     <div class="container-sm">
         <div class="row">
             <div class="col-sm-12">
+                <p class="data" style="font-size: 10pt !important; margin-top: 30px !important; text-align: right !important;"><b>Atualizado</b><br>01/02/2018 11h27</p>
                 <h1>Saiba mais como o python surgiu e qual o seu cenário atual</h1>
                 <img class="image" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" alt="Card image cap">
                 <p>Python foi criado no final dos anos oitenta(1989) por Guido van Rossum no Centro de Matemática e Tecnológia da Informação (CWI, Centrum Wiskunde e Informatica), na Holanda, como sucessor da linguagem de programação ABC, capaz de lidar com exceções e interagir com o sistema operacional Amoeba.</p>

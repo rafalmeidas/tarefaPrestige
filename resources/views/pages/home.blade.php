@@ -65,21 +65,19 @@
         </div>
         <div class="col-sm-4">
           <div class="card margin" style="width: 18rem;">
-            <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" style="height: 170px">
+            <img class="card-img-top" src="https://s2.glbimg.com/K9CqSfV76KgiLA80V2cpRvmlHBg=/0x0:1600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/n/6/VFiiqiR1evxjrz6zj7Gw/pirarucu.jpg" style="height: 170px">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <h5 class="card-title">Peixe de mais de 100 quilos é fisgado em rio no interior de SP</h5>
+              <a href="{{route('noticia7')}}" class="btn btn-primary">Leia mais</a>
             </div>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="card margin" style="width: 18rem;">
-            <img class="card-img-top" src="https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2019/08/1_python-1-750x422.jpg" style="height: 170px">
+            <img class="card-img-top" src="https://s2.glbimg.com/-RHymzKdDpXqx_5dHFUUB_zx8CY=/0x0:1280x960/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/R/YJC3f2Q9GAdi6RUsXaGA/praia.jpeg" style="height: 170px">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <h5 class="card-title">Rio registra 54,8°C de sensação térmica neste sábado na Zona Oeste<br></h5>
+              <a href="{{route('noticia8')}}" class="btn btn-primary">Leia mais</a>
             </div>
             </div>
         </div> 
